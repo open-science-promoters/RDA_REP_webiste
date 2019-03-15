@@ -1,5 +1,5 @@
 baseurl = "https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/"
-publishDir = "docs"
+publishDir = "public"
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -10,6 +10,7 @@ disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Define the number of posts per page
 paginate = 5
 
@@ -28,7 +29,7 @@ paginate = 5
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
+    name = "About"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
