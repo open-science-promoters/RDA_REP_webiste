@@ -35,8 +35,8 @@ paginate = 5
 
 [[menu.main]]
     name = "About us"
-    identifier = "faq"
-    url  = "/faq/"
+    identifier = "about"
+    url  = "/about/"
     weight = 3
 
 [[menu.main]]
