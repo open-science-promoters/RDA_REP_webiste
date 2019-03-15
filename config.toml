@@ -1,4 +1,4 @@
-baseurl = "https://jovial-jones-af4a9c.netlify.com"
+baseurl = "https://jovial-jones-af4a9c.netlify.com/"
 publishDir = "public"
 title = "Universal"
 theme = "hugo-universal-theme"
