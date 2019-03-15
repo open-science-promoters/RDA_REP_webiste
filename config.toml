@@ -29,7 +29,12 @@ paginate = 5
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "Other ressources"
+    url  = "/ressources/"
+    weight = 2    
+
+[[menu.main]]
+    name = "About us"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
