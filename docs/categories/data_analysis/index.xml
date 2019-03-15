@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data_analysis on Universal</title>
+    <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/categories/data_analysis/</link>
+    <description>Recent content in Data_analysis on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/categories/data_analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demographic_analysis</title>
+      <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/blog/2019/02/13/2019-02-13-demographic-analysis/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/blog/2019/02/13/2019-02-13-demographic-analysis/</guid>
+      <description>Here we will make a demographic analyis.
+We first read the data
+#demog_data = read_csv (&amp;quot;&amp;quot;) And then do some analyis. Number of answers: Number of answers with description of activity:
+…</description>
+    </item>
+    
+    <item>
+      <title>Strategy Analysis</title>
+      <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/blog/2019/02/13/2019-02-13-strategy-analysis/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/blog/2019/02/13/2019-02-13-strategy-analysis/</guid>
+      <description>nothing here yet</description>
+    </item>
+    
+  </channel>
+</rss>

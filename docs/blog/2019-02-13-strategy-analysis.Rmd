@@ -1,0 +1,11 @@
+---
+title: Strategy Analysis
+author: Julien Colomb
+date: '2019-02-13'
+slug: strategy-analysis
+categories:
+  - data_analysis
+tags: []
+---
+
+nothing here yet

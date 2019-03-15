@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Universal</title>
+    <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/categories/</link>
+    <description>Recent content in Categories on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data_analysis</title>
+      <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/categories/data_analysis/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/categories/data_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

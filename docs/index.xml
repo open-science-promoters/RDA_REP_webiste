@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universal</title>
+    <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/</link>
+    <description>Recent content on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demographic_analysis</title>
+      <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/blog/2019/02/13/2019-02-13-demographic-analysis/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/blog/2019/02/13/2019-02-13-demographic-analysis/</guid>
+      <description>Here we will make a demographic analyis.
+We first read the data
+#demog_data = read_csv (&amp;quot;&amp;quot;) And then do some analyis. Number of answers: Number of answers with description of activity:
+…</description>
+    </item>
+    
+    <item>
+      <title>Strategy Analysis</title>
+      <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/blog/2019/02/13/2019-02-13-strategy-analysis/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/blog/2019/02/13/2019-02-13-strategy-analysis/</guid>
+      <description>nothing here yet</description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/consulting/</guid>
+      <description>A problem, we help &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/contact/</guid>
+      <description>To be added We are not yet sure how to organise this :)</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghe.phaidra.org/pages/Engaging-Researchers/RDAREP_website/faq/</guid>
+      <description>Researcher Engagement with Data Management - What Works? A new RDA project, under the umbrella of the Libraries for Research Interest Group and counting with the help of 29 volunteers from three continents, seeks to collect case studies from organisations around the world on how to engage researchers with research data management.
+Collectively, our group have put together a survey, now open for contributions, which allows participants to share their stories and approaches for increasing engagement with research data management among researchers.</description>
+    </item>
+    
+  </channel>
+</rss>
