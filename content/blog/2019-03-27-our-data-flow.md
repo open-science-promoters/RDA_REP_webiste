@@ -8,17 +8,17 @@ categories:
 tags: []
 ---
 
-# From raw data to reproducible reports
+While planning the data analysis, we also planned how and in what format the data will be transformed and made available to the group and later published. 
 
-## from raw to anonimised version
+## From raw to anonimised version
 In this post, I want to present our data flow. We gathered response from a survey on  the one click survey website.
 
-The data is downloaded as a .txt file (other exports are proposed, but only that one is working correctly, for instance the .csv export gives all values starting with "="). The file is then uploaded on the entreprise github page (private) in the "raw data" folder.
+The data is downloaded as a .txt file (other exports are proposed, but only that one is working correctly, for instance the .csv export gives all values starting with "="). The file is then uploaded on the entreprise github page (private) in the "01_Raw_Data" folder. (https://ghe.phaidra.org/Engaging-Researchers/data_analysis/tree/master/Data/01_Raw_Data you need to be logged in to access this page).
 
-In the metadata folder, we produced a .csv file with correct headers name (i.e. unique, without any special characters & meaningfull).
+In the metadata folder, we created a .csv file with computer and human readable headers name (i.e. unique, without any special characters, and meaningfull).
 
-One R script is reading these files and creating a tidy version of the raw file, a second file filtering entries with activity description and one third file sorting personal data out. This data without personal data but with an unique ID number allowing us to get back to personal data if necessary.
-This file is also pushed to OSF to https://osf.io/aku9z/ for fruther use and maybe publication.
+One R script is reading these files and creating a tidy version of the raw file, a second file filtering entries with activity description and one third file sorting personal data out. This last data file has no personal data but contain an unique ID number allowing us to get back to personal data if necessary. It is pushed to the 02_Anonimised_Data folder there and to
+ OSF at https://osf.io/aku9z/, for fruther use and maybe publication.
 
 ## Reproducible reports
 
